@@ -51,7 +51,7 @@ st.markdown("""
         height: 100%;
     }
     </style>
-""", unsafe_allow_html=True)
+""", unsafe_allow_html=https://raw.githubusercontent.com/dhananjay9007/FlowRisk-DashBoard/refs/heads/main/flowrisk_survey_synthetic_data_600_responses.csv)
 
 # =====================================
 # DATA LOADING FUNCTION
@@ -695,4 +695,5 @@ else:
     1. The repository `FlowRisk-` is **public** (not private)
     2. The file `flowrisk_survey_synthetic_data_600_responses.csv` exists in the main branch
     3. The file path is correct
+
     """)
